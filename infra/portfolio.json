@@ -1,0 +1,32 @@
+{
+  "portfolioName": "MyInvestmentPortfolio",
+  "stocks": [
+    "AAPL",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "TSLA",
+    "FB",
+    "NVDA",
+    "PYPL",
+    "NFLX",
+    "INTC",
+    "CSCO",
+    "IBM",
+    "V",
+    "GS",
+    "JPM",
+    "BA",
+    "DIS",
+    "KO",
+    "PEP",
+    "WMT"
+  ],
+  "cryptocurrencies": [
+    "BTC",
+    "ETH",
+    "XRP",
+    "LTC",
+    "ADA"
+  ]
+}
